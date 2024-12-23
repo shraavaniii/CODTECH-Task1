@@ -52,5 +52,7 @@
 - The user confirms the password, and the process is successfully completed.
 
 **Output:**
+
 ![image](https://github.com/user-attachments/assets/eae45291-de58-41a6-965d-7332ba48cbda)
+
 ![image](https://github.com/user-attachments/assets/e3eb4d12-7471-47c8-8d1f-729a4e0be2c0)
