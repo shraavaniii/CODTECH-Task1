@@ -21,8 +21,8 @@
 
 **Technologies Used**
 
-*Python:* The programming language used for implementing the password strength assessment tool.  
-*String Library:* Used to check character types such as uppercase letters, lowercase letters, digits, and special characters.
+- **Python:** The programming language used for implementing the password strength assessment tool.  
+- **String Library:** Used to check character types such as uppercase letters, lowercase letters, digits, and special characters.
 
 **Project Workflow**
 
@@ -46,7 +46,7 @@
 - **Completion:** Upon successful confirmation, the password is accepted, and the process concludes.
 
 **Example Use Case**
-1. A user enters the password "Strong@123".
-2. The tool evaluates the password's length, complexity, and variety of characters.
-3. Feedback is provided, indicating that the password strength is "Strong".
-4. The user confirms the password, and the process is successfully completed.
+- A user enters the password "Strong@123".
+- The tool evaluates the password's length, complexity, and variety of characters.
+- Feedback is provided, indicating that the password strength is "Strong".
+- The user confirms the password, and the process is successfully completed.
