@@ -5,7 +5,7 @@
 **Duration:** Dec 25 to Jan 25 (4 weeks)  
 **Mentor:** Your Mentor
 
-***Overview of the Project***
+                                                                        ***Overview of the Project***
 
 **Project: Password Strength Assessment Tool**
 
@@ -14,10 +14,10 @@
 
 **Key Activities**
 
-1) *Password Analysis:* Evaluating the password's length and inclusion of uppercase, lowercase, digits, and special characters.
-2) *Scoring System:* Assigning a score based on password features to determine its strength.
-3) *Feedback Mechanism:* Displaying the password strength level based on the score.
-4) *Confirmation Process:* Implementing a mechanism to confirm the password by re-entering it.
+1) **Password Analysis:** Evaluating the password's length and inclusion of uppercase, lowercase, digits, and special characters.
+2) **Scoring System:** Assigning a score based on password features to determine its strength.
+3) **Feedback Mechanism:** Displaying the password strength level based on the score.
+4) **Confirmation Process:** Implementing a mechanism to confirm the password by re-entering it.
 
 **Technologies Used**
 
@@ -40,10 +40,10 @@
 
 **Sample Workflow**
 
-*User Input:* The user enters a password they wish to evaluate.  
-*Strength Feedback:* The tool analyzes the password and provides feedback on its strength.  
-*Confirmation:* The user is prompted to re-enter the password for confirmation.  
-*Completion:* Upon successful confirmation, the password is accepted, and the process concludes.
+- **User Input:** The user enters a password they wish to evaluate.  
+- **Strength Feedback:** The tool analyzes the password and provides feedback on its strength.  
+- **Confirmation:** The user is prompted to re-enter the password for confirmation.  
+- **Completion:** Upon successful confirmation, the password is accepted, and the process concludes.
 
 **Example Use Case**
 1. A user enters the password "Strong@123".
