@@ -5,7 +5,7 @@
 **Duration:** Dec 25 to Jan 25 (4 weeks)  
 **Mentor:** Your Mentor
 
-                                                                        ***Overview of the Project***
+**Overview of the Project**
 
 **Project: Password Strength Assessment Tool**
 
