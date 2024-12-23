@@ -1,8 +1,8 @@
-**Name:** Shravani Achal Hendre
-**Company:** Student
-**ID:** CT08DU
-**Domain:** Cyber Security
-**Duration:** Dec 25 to Jan 25 (4 weeks)
+**Name:** Shravani Achal Hendre  
+**Company:** Student  
+**ID:** CT08DU  
+**Domain:** Cyber Security  
+**Duration:** Dec 25 to Jan 25 (4 weeks)  
 **Mentor:** Your Mentor
 
 ***Overview of the Project***
@@ -10,8 +10,7 @@
 **Project: Password Strength Assessment Tool**
 
 **Objective:**
-
-The goal of this project is to create a tool that evaluates the strength of passwords entered by users. It analyzes various factors such as length, complexity, and uniqueness of the password and provides feedback on its strength (Weak, Ok, Good, Strong). The tool also verifies the entered password by requiring users to confirm it.
+      The goal of this project is to create a tool that evaluates the strength of passwords entered by users. It analyzes various factors such as length, complexity, and uniqueness of the password and provides feedback on its strength (Weak, Ok, Good, Strong). The tool also verifies the entered password by requiring users to confirm it.
 
 **Key Activities**
 
@@ -22,28 +21,28 @@ The goal of this project is to create a tool that evaluates the strength of pass
 
 **Technologies Used**
 
-*Python:* The programming language used for implementing the password strength assessment tool.
+*Python:* The programming language used for implementing the password strength assessment tool.  
 *String Library:* Used to check character types such as uppercase letters, lowercase letters, digits, and special characters.
 
 **Project Workflow**
 
-**Input and Analysis**
+**Input and Analysis:**  
       The tool takes a user-provided password as input and evaluates its properties. It checks for the inclusion of uppercase letters, lowercase letters, digits, and special characters. Each property contributes to the overall assessment.
 
-**Length Evaluation and Scoring**
+**Length Evaluation and Scoring:**  
       Password length is evaluated against specific thresholds, with longer passwords contributing to a higher score. The complexity of the password, determined by the variety of character types used, also increases the score.
 
-**Feedback and Strength Levels**
+**Feedback and Strength Levels:**  
       Based on the total score, the tool categorizes the password's strength into different levels: Weak, Ok, Good, or Strong. This feedback helps users understand how secure their password is.
 
-**Password Confirmation**
+**Password Confirmation:**  
       The tool ensures that users confirm their password by re-entering it. This step helps validate that the password was entered correctly and matches the user's intent.
 
 **Sample Workflow**
 
-*User Input:* The user enters a password they wish to evaluate.
-*Strength Feedback:* The tool analyzes the password and provides feedback on its strength.
-*Confirmation:* The user is prompted to re-enter the password for confirmation.
+*User Input:* The user enters a password they wish to evaluate.  
+*Strength Feedback:* The tool analyzes the password and provides feedback on its strength.  
+*Confirmation:* The user is prompted to re-enter the password for confirmation.  
 *Completion:* Upon successful confirmation, the password is accepted, and the process concludes.
 
 **Example Use Case**
